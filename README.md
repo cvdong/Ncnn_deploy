@@ -1,2 +1,7 @@
 # Ncnn_deploy
-手机端极致优化的高性能神经网络前向计算框架:  NOTE :sparkles:
+
+ NOTE ✨
+
+1. ncnn 编译
+2. ncnn 部署Lib
+3. ncnn 部署YOLO
